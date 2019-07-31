@@ -22,3 +22,8 @@ The data are retrieved from the National Sleep Research Resource ([**NSRR**](htt
 
 
 ### Requirements
+- Data access to Cleveland Children's Sleep and Health Study ([**CCSHS**](https://sleepdata.org/datasets/ccshs)) database is approved via [**Dr. Xu (Sunny) Wang**](https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/xu-sunny-wang/index.html?ref=faculty-profiles%2Fscience%2Fxu-sunny-wang.html). Thank you Sunny !!
+- Window 10 64 bit
+- Python version 3.6
+- Deep Learning Package: Tensorflow
+- Google Colab GPU Platform
