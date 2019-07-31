@@ -32,14 +32,11 @@ The data are retrieved from the National Sleep Research Resource ([**NSRR**](htt
 ### Some CNN Concepts on PSG Data
 - Data Pre-processing (Segmentation)
   * In this project, the PSG data were segmented into 1-minute long events to avoid memory issues.
-
 <center><image src="Master Thesis/Images/preprocessing.png" width=500></image></center>
 
 - Feature Extraction (1-D Convolution + 1-D Maxpooling)
   * The example shows a 3-min piece of ECG channel, just for displaying how CNN does the automatic feature extraction on 1-D Data
-
-<center><image src="Master Thesis/Images/FE.png" width=500></image></center>
+<center><image src="Master Thesis/Images/FE.png" width=400></image></center>
 
 [**AlexNet Architecture**](https://en.wikipedia.org/wiki/AlexNet)
-
-<center><image src="Master Thesis/Images/1dCNN.png" width=500></image></center>
+<center><image src="Master Thesis/Images/1dCNN.png" width=400></image></center>
