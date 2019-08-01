@@ -68,3 +68,8 @@ The data are retrieved from the National Sleep Research Resource ([**NSRR**](htt
 
 - Respiratory
 <center><image src="Master Thesis/Images/Respiratory.png"></image></center>
+
+## Reference
+- Cen L., Yu Z.L., Tang Y., Shi W., Kluge T., Ser W. (2017) Deep Learning Method for Sleep Stage Classification. In: Liu D., Xie S., Li Y., Zhao D., El-Alfy ES. (eds) Neural Information Processing. ICONIP 2017. Lecture Notes in Computer Science, vol 10635. Springer, Cham
+
+- Urtnasan, E., Park, JU., Joo, EY. et al. J Med Syst (2018) 42: 104. https://doi.org/10.1007/s10916-018-0963-0
