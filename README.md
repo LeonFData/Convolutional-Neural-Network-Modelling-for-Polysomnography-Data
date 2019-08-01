@@ -24,7 +24,7 @@
 The data are retrieved from the National Sleep Research Resource ([**NSRR**](https://sleepdata.org/)), which is a new National Heart, Lung, and Blood Institute resource designed to provide big data resources to the sleep research community. The PSG data are available for 517 participants at ages 16-19. Each anonymous record includes the summary results of a 12-hour overnight sleep study (awake and sleep stages) including annotation files with scored events and physiological signals from the sleep record. Each has a signal file in the European Data Format ([**EDF**](https://en.wikipedia.org/wiki/European_Data_Format)) exported from Compumedics Profusion. In this project, we conduct data pre-processing and CNN modeling on the data in EDF files which have an total size of 13 GB.
 
 <p align="center">
-  <img width="550" src="Master Thesis/Images/CCSHS.jpg">
+  <img width="550" src="Master Thesis/Images/CCSHS.png">
 </p>
 
 ## Requirements
