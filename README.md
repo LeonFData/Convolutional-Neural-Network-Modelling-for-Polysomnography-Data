@@ -55,7 +55,7 @@ The data are retrieved from the National Sleep Research Resource ([**NSRR**](htt
 - CNN Architecture ([**AlexNet**](https://en.wikipedia.org/wiki/AlexNet))
 
 <p align="center">
-  <img width="500" src="Master Thesis/Images/1dCNN.jpg">
+  <img width="500" src="Master Thesis/Images/1dCNN.png">
 </p>
 
 ## Modelling Results
